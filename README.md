@@ -20,7 +20,7 @@ drench.mlapp
 
 gymno.mp3
 click.mp3
-anotherclick.mpd
+anotherclick.mp3
 
 # 
 
